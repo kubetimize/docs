@@ -8,7 +8,6 @@ Welcome to the Kubetimize documentation page! Here, you'll find comprehensive in
 2. [Key Features](#key-features)
 3. [Getting Started](#getting-started)
    - [Installation](#installation)
-   - [Authentication](#authentication)
 4. [Using Kubetimize](#using-kubetimize)
    - [Cluster Insights](#cluster-insights)
    - [Recommendations](#recommendations)
@@ -55,11 +54,6 @@ Kubetimize is designed for both platform-based deployments and on-premises setup
      ```bash
      helm install kubetimize-agent ./charts
      ```
-
-### Authentication
-
-Kubetimize uses secure authentication via AWS Cognito. For Google OAuth users, ensure you are registered in Cognito before accessing internal pages.
-
 ---
 
 ## Using Kubetimize
