@@ -42,7 +42,7 @@ Kubetimize is designed for both platform-based deployments and on-premises setup
 ### Installation
 
 1. **Platform-Based Installation:**
-   - Sign up at [Kubetimize Platform](https://kubetimize.com).
+   - Sign up at [Kubetimize Platform](https://www.kubetimize.io).
    - Download the Kubetimize agent for your Kubernetes cluster.
    - Follow the setup wizard to register your cluster.
 
@@ -134,9 +134,9 @@ A3: Kubetimize agents can send data securely to your backend or store insights l
 ## Support
 
 For assistance, reach out via:
-- **Email**: support@kubetimize.com
-- **Slack**: [Join our community](https://kubetimize.com/slack)
-- **Documentation Portal**: [Docs](https://kubetimize.com/docs)
+- **Email**: support@kubetimize.io
+- **Slack**: [Join our community](https://kubetimize.io/slack)
+- **Documentation Portal**: [Docs](https://kubetimize.io/docs)
 
 We’re here to help you optimize your Kubernetes clusters!
 
@@ -160,7 +160,7 @@ To ensure secure communication with the Kubetimize backend, an API key is requir
 3. **Validate API Key Communication:**
    Test the connection using cURL or a similar tool:
    ```bash
-   curl -X GET "https://api.kubetimize.com/v1/status" \
+   curl -X GET "https://api.kubetimize.io/v1/status" \
    -H "X-API-Key: YOUR_API_KEY"
    ```
 
