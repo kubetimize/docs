@@ -129,7 +129,7 @@ A3: Kubetimize agents can send data securely to your backend or store insights l
 
 For assistance, reach out via:
 - **Email**: support@kubetimize.io
-- **Slack**: [Join our community](https://kubetimize.io/slack)
+- **Slack**: [Join our community](https://kubetimize.slack.com)
 - **Documentation Portal**: [Docs](https://kubetimize.io/docs)
 
 We’re here to help you optimize your Kubernetes clusters!
