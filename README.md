@@ -67,7 +67,7 @@ Gain visibility into:
 
 Access insights via the web dashboard or API endpoint:
 ```http
-GET /v1/cluster/{cluster_id}/insights
+GET /v1/cluster/{org_id}/{cluster_id}/insights
 ```
 
 ### Recommendations
