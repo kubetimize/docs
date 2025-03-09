@@ -92,12 +92,13 @@ Fetch the current automation settings for your cluster:
 
 ```http
 GET /v1/state/{org_id}/{cluster_id}
+```
 
 Modify automation settings for workloads dynamically, Use this endpoint to update workload automation parameters, including scheduling, scaling rules, and cost optimizations:
 
 ```http
 POST /v1/workloads/update/{org_id}/{cluster_id}
-
+```
 
 
 ### Node Optimization
