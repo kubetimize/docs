@@ -87,7 +87,6 @@ GET /v1/getrecommendation/{org_id}/{cluster_id}
 
 Automate your Kubernetes cluster management with Kubetimize. Define and update automation configurations to optimize workloads and resource allocation.
 
-### Retrieve Automation Configurations
 Fetch the current automation settings for your cluster:
 
 ```http
