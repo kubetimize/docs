@@ -11,6 +11,7 @@ Welcome to the Kubetimize documentation page! Here, you'll find comprehensive in
 4. [Using Kubetimize](#using-kubetimize)
    - [Cluster Insights](#cluster-insights)
    - [Recommendations](#recommendations)
+   - [Automation](#automation)
    - [Node Optimization](#node-optimization)
 5. [Advanced Configuration](#advanced-configuration)
 6. [FAQ](#faq)
