@@ -83,6 +83,23 @@ GET /v1/getrecommendation/{org_id}/{cluster_id}
 - **Node Right-Sizing**: Match node types to workload requirements.
 - **Workload Distribution**: Balance workloads across nodes.
 
+## Automation
+
+Automate your Kubernetes cluster management with Kubetimize. Define and update automation configurations to optimize workloads and resource allocation.
+
+### Retrieve Automation Configurations
+Fetch the current automation settings for your cluster:
+
+```http
+GET /v1/state/{org_id}/{cluster_id}
+
+Modify automation settings for workloads dynamically, Use this endpoint to update workload automation parameters, including scheduling, scaling rules, and cost optimizations:
+
+```http
+POST /v1/workloads/update/{org_id}/{cluster_id}
+
+
+
 ### Node Optimization
 
 Kubetimize allows you to:
