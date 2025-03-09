@@ -88,13 +88,13 @@ GET /v1/getrecommendation/{org_id}/{cluster_id}
 
 Automate recommendation implementation and Kubernetes cluster management with Kubetimize Automation Configurations. Easily define and update configurations to optimize workloads, resource allocation, and cost efficiency.
 
-Fetch the current automation settings for your cluster  via the web dashboard or API endpoint:
+Fetch the current automation settings for your cluster via the web dashboard or API endpoint:
 
 ```http
 GET /v1/state/{org_id}/{cluster_id}
 ```
 
-Modify automation settings for workloads dynamically, Use this endpoint to update workload automation parameters, including scheduling, scaling rules, and cost optimizations  via the web dashboard or API endpoint:
+Modify automation settings for workloads dynamically, update workload automation parameters, including scheduling, scaling rules, and cost optimizations via the web dashboard or API endpoint:
 
 ```http
 POST /v1/workloads/update/{org_id}/{cluster_id}
