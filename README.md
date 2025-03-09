@@ -86,7 +86,7 @@ GET /v1/getrecommendation/{org_id}/{cluster_id}
 
 ## Automation
 
-Automate recommendation implementation and Kubernetes cluster management with Kubetimize Automation Configurations. Define and update automation configurations to optimize workloads and resource allocation.
+Automate recommendation implementation and Kubernetes cluster management with Kubetimize Automation Configurations. Easily define and update configurations to optimize workloads, resource allocation, and cost efficiency.
 
 Fetch the current automation settings for your cluster:
 
