@@ -65,9 +65,13 @@ Gain visibility into:
 - Node and pod pricing across cloud providers.
 - Historical trends and projections.
 
-Access insights via the web dashboard or API endpoint:
+Access cluster insights via the web dashboard or API endpoint:
 ```http
 GET /v1/cluster/{org_id}/{cluster_id}/insights
+```
+Access organization insights via the web dashboard or API endpoint:
+```http
+GET /v1/organization/{org_id}/insights
 ```
 
 ### Recommendations
