@@ -43,17 +43,14 @@ Kubetimize is designed for both platform-based deployments and on-premises setup
 
 1. **Platform-Based Installation:**
    - Sign up at [Kubetimize Platform](https://www.kubetimize.io).
-   - Download the Kubetimize agent for your Kubernetes cluster.
+   - Download the Kubetimize helm chart for your Kubernetes cluster.
    - Follow the setup wizard to register your cluster.
 
-2. **On-Premises Installation:**
-   - Clone the Kubetimize repository:
-     ```bash
-     git clone https://github.com/kubetimize/kubetimize-agent.git
-     ```
-   - Deploy the agent using Helm or kubectl:
-     ```bash
-     helm install kubetimize-agent ./charts
+2. ## On-Premises Installation
+
+To install Kubetimize using Helm, follow the installation guide in the Helm chart repository:
+
+➡️ [Kubetimize Helm Chart Installation Guide](https://github.com/kubetimize/charts)
      ```
 ---
 
