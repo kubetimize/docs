@@ -43,9 +43,9 @@ Kubetimize is designed for both platform-based deployments and on-premises setup
    - Sign up at [Kubetimize Platform](https://www.kubetimize.io).
    - Download the Kubetimize helm chart for your Kubernetes cluster.
    - Follow the setup wizard to register your cluster.
-   For custom installation, follow the installation guide in the Helm chart repository:
+   - For custom installation, follow the installation guide in the Helm chart repository:
 
-   ➡️ [Kubetimize Helm Chart Installation Guide](https://github.com/kubetimize/charts)
+      ➡️ [Kubetimize Helm Chart Installation Guide](https://github.com/kubetimize/charts)
 
 ---
 
