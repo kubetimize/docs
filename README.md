@@ -48,10 +48,10 @@ Kubetimize is designed for both platform-based deployments and on-premises setup
 
 2. ## On-Premises Installation
 
-To install Kubetimize using Helm, follow the installation guide in the Helm chart repository:
+   To install Kubetimize using Helm, follow the installation guide in the Helm chart repository:
 
-➡️ [Kubetimize Helm Chart Installation Guide](https://github.com/kubetimize/charts)
-     ```
+   ➡️ [Kubetimize Helm Chart Installation Guide](https://github.com/kubetimize/charts)
+
 ---
 
 ## Using Kubetimize
